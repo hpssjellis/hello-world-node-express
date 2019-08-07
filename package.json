@@ -3,9 +3,9 @@
   "description": "Hello World test app",
   "version": "0.0.1",
   "private": true,
-  "script" : {
-       "start" : "node app.js"
-  }
+  "script": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "express": "4.x"
   }
