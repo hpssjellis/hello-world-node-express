@@ -3,7 +3,7 @@
   "description": "Hello World test app",
   "version": "0.0.1",
   "private": true,
-  "script": {
+  "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
