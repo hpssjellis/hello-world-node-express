@@ -3,7 +3,7 @@ var app = express();
 
 // Routes
 app.get('/', function(req, res) {
-  res.send('Hello World! from Jeremy. see <a href="https://www.rocksetta.com> rocksetta"></a>');
+  res.send('Hello World! from Jeremy. see <a href="https://www.rocksetta.com">rocksetta</a>');
 });
 
 // Listen
